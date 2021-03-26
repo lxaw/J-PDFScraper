@@ -3,7 +3,7 @@
 ## Using Java to parse Japanese from PDFs.
 
 ## :cinema: Video:
-* 
+* https://youtu.be/2N3Ayo9ctpk
 
 ## :grey_question: What is it?
 * Scrapes a folder of PDFs. 
