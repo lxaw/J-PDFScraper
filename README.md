@@ -21,7 +21,7 @@
 * kuromoji:https://www.atilika.org/
 * PDFBox: https://pdfbox.apache.org/
 
-# Small notes:
+###### Small notes:
 * Make sure that the PDF file you want to scrape can be scraped, that is, don't use PDFs that have only images / text within that cannot be accessed.
 
 
